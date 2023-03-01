@@ -14,7 +14,7 @@ Unity
 ## Features
 Game mechanics:
 - 2D sprite animations.
-- Mask Dude can jump, take damage, wall slide and wall jump. The enemies roam at various speeds on the platforms.
+- Mask Dude can jump, take damage, wall slide and wall jump. The enemies roam at various speeds on the platforms There are two playable levels.
 - High score is saved at the end of each level. Aim for the highest score you can!
 
 ### Gameplay videos:
