@@ -12,10 +12,13 @@ C#
 Unity
 
 ## Features
-Game mechanics:
+### Game mechanics:
 - 2D sprite animations.
-- Mask Dude can jump, take damage, wall slide and wall jump. The enemies roam at various speeds on the platforms There are two playable levels.
+- Mask Dude can jump, take damage, wall slide and wall jump. The enemies roam at various speeds on the platforms. There are two playable levels.
 - High score is saved at the end of each level. Aim for the highest score you can!
 
 ### Gameplay videos:
-(WIP)
+
+
+https://user-images.githubusercontent.com/83728442/222288699-99417a37-ee17-4e8f-95dc-9b6b7d9be3b0.mp4
+
