@@ -2,6 +2,7 @@
 
 ## Description
 A short and cute 2D platformer made for school. 
+
 Frog Ninja has gone missing! In order to find his best friend, Mask Dude has left off on a journey to collect his favourite fruits, hoping to find him on the way. After all, Frog Ninja tends to wander off and often gets lost in the dangerous Platform Forest just to grab himself a few snacks...
 
 ## Languages and Utilities Used
